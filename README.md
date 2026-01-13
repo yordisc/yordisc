@@ -76,31 +76,19 @@ I am a passionate developer from **Venezuela** 🇻🇪 focused on building effi
 
 ---
 
-### 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yordisc&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=yordisc&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yordisc&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=yordisc&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=yordisc&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yordisc&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph" />
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-  <br>
-  
-  <img src="https://nirzak-streak-stats.vercel.app/?user=yordisc&theme=monokai&hide_border=false" height="150" alt="streak graph" />
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=yordisc&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
-  <br><br>
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yordisc&theme=monokai&no-frame=false&no-bg=true&margin-w=4" alt="trophy" />
-  </a>
-  
-  <br>
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai" alt="quote" />
-
-  <br>
-  
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=yordisc&icon=2&color=0" alt="visitor count" />
-  </a>
-
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=yordisc&icon=2&color=0)](https://visitcount.itsvg.in)
