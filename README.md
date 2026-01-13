@@ -90,12 +90,12 @@ I am a passionate developer from **Venezuela** 🇻🇪 focused on building effi
   <br><br>
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yordisc&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4" alt="trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=yordisc&theme=monokai&no-frame=false&no-bg=true&margin-w=4" alt="trophy" />
   </a>
   
   <br>
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai" alt="quote" />
 
   <br>
   
