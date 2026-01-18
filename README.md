@@ -105,18 +105,16 @@ I am a passionate developer from **Venezuela** 🇻🇪 focused on building effi
   <br><br>
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yordisc&theme=monokai&no-frame=false&no-bg=true&margin-w=4" alt="trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=yordisc&theme=onedark&margin-w=4" alt="trophies" />
   </a>
-  
+
   <br>
 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai" alt="quote" />
 
   <br>
   
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=yordisc&icon=2&color=0" alt="visitor count" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=yordisc&style=flat-square&label=Profile+Views&color=blue" alt="Profile Views" />
 
 </div>
 
