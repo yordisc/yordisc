@@ -1,3 +1,5 @@
+  <img src="https://komarev.com/ghpvc/?username=yordisc&style=flat-square&label=Profile+Views&color=blue" alt="Profile Views" />
+
 <h1 align="center">Hello 👋, I'm Yordis Cujar</h1>
 
 <h3 align="center">
@@ -105,7 +107,7 @@ I am a passionate developer from **Venezuela** 🇻🇪 focused on building effi
   <br><br>
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yordisc&theme=onedark&margin-w=4" alt="trophies" />
+    <img src="https://github-profile-trophy.vercel.app/yordisc=ryo-ma&theme=monokai" alt="trophies" />
   </a>
 
   <br>
@@ -114,7 +116,6 @@ I am a passionate developer from **Venezuela** 🇻🇪 focused on building effi
 
   <br>
   
-  <img src="https://komarev.com/ghpvc/?username=yordisc&style=flat-square&label=Profile+Views&color=blue" alt="Profile Views" />
 
 </div>
 
