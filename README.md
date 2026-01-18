@@ -97,6 +97,8 @@ I am a passionate developer from **Venezuela** 🇻🇪 focused on building effi
   
   <br/><br/>
 
+[![trophy](https://github-profile-trophy.vercel.app/yordisc=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
   <img src="https://github-readme-stats.vercel.app/api?username=yordisc&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yordisc&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph" />
 
@@ -105,10 +107,6 @@ I am a passionate developer from **Venezuela** 🇻🇪 focused on building effi
   <img src="https://nirzak-streak-stats.vercel.app/?user=yordisc&theme=monokai&hide_border=false" height="150" alt="streak graph" />
 
   <br><br>
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/yordisc=ryo-ma&theme=monokai" alt="trophies" />
-  </a>
 
   <br>
 
@@ -119,8 +117,3 @@ I am a passionate developer from **Venezuela** 🇻🇪 focused on building effi
 
 </div>
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
----
-[![](https://visitcount.itsvg.in/api?id=yordisc&icon=2&color=0)](https://visitcount.itsvg.in)
