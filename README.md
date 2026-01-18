@@ -97,7 +97,11 @@ I am a passionate developer from **Venezuela** 🇻🇪 focused on building effi
   
   <br/><br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/yordisc=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/yordisc<a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=yordisc&theme=monokai&margin-w=4" alt="trophy" />
+  </a>
+  <br> 
+  -->
 
   <img src="https://github-readme-stats.vercel.app/api?username=yordisc&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yordisc&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph" />
