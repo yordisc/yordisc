@@ -92,27 +92,15 @@ I am a passionate developer from **Venezuela** 🇻🇪 focused on building effi
 ### 📊 GitHub Stats
 
 <div align="center">
-
   <img src="https://github.com/yordisc/yordisc/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-  
   <br/><br/>
-
-
-  <img src="https://github-readme-stats.vercel.app/api?username=yordisc&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yordisc&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph" />
-
-  <br>
-  
-  <img src="https://nirzak-streak-stats.vercel.app/?user=yordisc&theme=monokai&hide_border=false" height="150" alt="streak graph" />
-
+  <a>
+      ![Yordis's GitHub stats](https://github-readme-stats.vercel.app/api?username=yordisc&show_icons=true&theme=gruvbox)
+  </a>
+  <a>
+      [![GitHub Streak](https://streak-stats.demolab.com?user=yordisc&theme=monokai&locale=es&short_numbers=true&mode=weekly)](https://git.io/streak-stats) 
+  </a>
   <br><br>
-
-  <br>
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai" alt="quote" />
-
-  <br>
-  
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai" alt="quote" /> 
 </div>
 
