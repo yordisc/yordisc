@@ -4,7 +4,7 @@
 
 <h3 align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2088FF&center=true&vCenter=true&width=435&lines=Backend+Developer;Cloud+Enthusiast+%E2%98%81%EF%B8%8F;SysAdmin+%26+DevOps;Building+solutions+in+Linux+%F0%9F%90%A7" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2088FF&center=true&vCenter=true&width=435&lines=Backend+Developer;Cloud+Engineer+%E2%98%81%EF%B8%8F;SysAdmin+%26+DevOps;Building+solutions+in+Linux+%F0%9F%90%A7" alt="Typing SVG" />
     </a>
 </h3>
 
@@ -104,10 +104,6 @@ I am a passionate developer from **Venezuela** 🇻🇪 focused on building effi
     <img src="https://streak-stats.demolab.com?user=yordisc&theme=monokai&locale=es&mode=weekly&hide_border=true" height="170" alt="streak"/>
   </a>
 
-  <br><br>
-
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai" alt="quote" />
-
-  <br><br>
   
 </div>
